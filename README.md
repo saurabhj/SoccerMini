@@ -31,22 +31,28 @@ Google is your friend.
 Some screens from the game.
 
 ![alt text](https://github.com/saurabhj/SoccerMini/blob/master/screens/01_main_menu.png "Main Menu of the Game")
+
 **Main Menu of the Game**
 
 ![alt text](https://github.com/saurabhj/SoccerMini/blob/master/screens/02_ai_level.png "Choose your level of AI")
+
 **Choose your level of AI**
 
 ![alt text](https://github.com/saurabhj/SoccerMini/blob/master/screens/03_game.png "The Actual Soccer Mini Game")
+
 **The Actual Soccer Mini Game**
 
 ![alt text](https://github.com/saurabhj/SoccerMini/blob/master/screens/04_options.png "Change Game settings and Options")
+
 **Change Game settings and Options**
 
 ![alt text](https://github.com/saurabhj/SoccerMini/blob/master/screens/05_instruction1.png "The Instructions Page - Page 1")
+
 **The Instructions Page - Page 1**
 
 ![alt text](https://github.com/saurabhj/SoccerMini/blob/master/screens/06_instruction2.png "Choose your level of AI")
+
 **The Instructions Page - Page 2**
 
 Thanks.
-- Gaurang & Saurabh
+- Gaurang Sinha & Saurabh Jain
