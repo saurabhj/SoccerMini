@@ -1,0 +1,3 @@
+# How to get the game to run?
+1. This game requires the EGAVGA.BGI library to run. The file needs to be placed in the same folder as the executable. Please search for this file on Google. (We cannot bundle it with the project due to licensing reasons). <br />[https://www.google.com/search?q=download+EGAVGA.BGI](https://www.google.com/search?q=download+EGAVGA.BGI)
+2. This may not run on today's computers - so you may need a DOS emulator like DOSBOX. <br />[https://www.dosbox.com/download.php?main=1](https://www.dosbox.com/download.php?main=1)
